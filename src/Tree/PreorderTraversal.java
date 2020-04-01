@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.Stack;
 
 public class PreorderTraversal {
+    /***
+     * Leetcode #144: https://leetcode.com/problems/binary-tree-preorder-traversal
+     */
     public List<Integer> preorderTraversalRecursion(TreeNode root) {
         /*
          * Recursion Version of pre-order traversal
@@ -25,6 +28,7 @@ public class PreorderTraversal {
     public List<Integer> preorderTraversalIteration(TreeNode root) {
         /*
          * Iteration Version of pre-order traversal
+         * Because the stack is First in last out, we add the right node first and then the left one.
          */
         Stack<TreeNode> stack = new Stack<>();
         LinkedList<Integer> output = new LinkedList<>();
