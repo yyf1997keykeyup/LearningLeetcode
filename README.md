@@ -1,5 +1,5 @@
 # LearningLeetcode
-My personal repository to practice on Leetcode.
+My personal repository to practice on Leetcode, including weekly contests.
 
 ## Tree
 
@@ -10,3 +10,11 @@ My personal repository to practice on Leetcode.
 | 145 | Binary Tree Postorder Traversal | [LeetCode145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](./src/Tree/PostorderTraversal.java) |
 | 102 | Binary Tree Level Order Traversal | [LeetCode102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](./src/Tree/LevelOrderTraversal.java) |
 | 100 | Same Tree | [LeetCode100](https://leetcode.com/problems/same-tree/) | [Solution](./src/Tree/SameTree.java) |
+| 101 | Symmetric Tree | [LeetCode101](https://leetcode.com/problems/symmetric-tree/) | [Solution](./src/Tree/SymmetricTree.java) |
+
+
+## Weekly contests
+| week | ranking | URL | Solution |
+|---|---|---|---|
+| 190 | 2000 | [weeklyContest190](https://leetcode.com/contest/weekly-contest-190/) | [Solution](./src/WeeklyContest/Contest190.py) |
+
