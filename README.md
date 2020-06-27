@@ -33,6 +33,16 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./src/Tree/ConvertSortedArrayToBinarySearchTree.java) |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./src/Tree/ConvertSortedListToBinarySearchTree.java) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](./src/Tree/BinarySearchTreeIterator.java) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./src/Tree/KthSmallestElementInABST.java) |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./src/Tree/SerializeAndDeserializeBinaryTree.java) |
+| 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Solution](./src/Tree/InorderSuccessorInBST.java) |
+| 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution](./src/Tree/ClosestBinarySearchTreeValue.java) |
+| 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [Solution](./src/Tree/ClosestBinarySearchTreeValueII.java) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./src/Tree/RecoverBinarySearchTree.java) |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./src/Tree/PopulatingNextRightPointersInEachNode.java) |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./src/Tree/PopulatingNextRightPointersInEachNodeII.java) |
+| 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Solution](./src/Tree/BinaryTreeVerticalOrderTraversal.java) |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
 
 
 ## DP
@@ -42,6 +52,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./src/DO/HouseRobber.java) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](./src/DP/HouseRobberII.java) |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution](./src/Tree/HouseRobberIII.java) |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
 
 
 ## Weekly contests
