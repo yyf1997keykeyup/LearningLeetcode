@@ -45,6 +45,28 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
 
 
+## Backtracking
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./src/Backtracking/Subsets.java) |
+| 90 | [Subsets-II](https://leetcode.com/problems/subsets-ii/) | [Solution](./src/Backtracking/SubsetsII.java) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Solution](./src/Backtracking/Combinations.java) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./src/Backtracking/CombinationSum.java) |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./src/Backtracking/CombinationSumII.java) |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./src/Backtracking/CombinationSumIII.java) |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./src/Backtracking/CombinationSumIV.java) |
+| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/) | [Solution](./src/Backtracking/FactorCombinations.java) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./src/Backtracking/Permutations.java) |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](./src/Backtracking/PermutationsII.java) |
+| 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | [Solution](./src/Backtracking/WordPatternII.java) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./src/Backtracking/LetterCombinationsOfAPhoneNumber.java) |
+| 320 | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) | [Solution](./src/Backtracking/GeneralizedAbbreviation.java) |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./src/Backtracking/RestoreIPAddresses.java) |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution](./src/Backtracking/WordBreakII.java) |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Solution](./src/Backtracking/ExpressionAddOperators.java) |
+
+
 ## DP
 
 | NUM | TITLE | Solution |
@@ -53,6 +75,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](./src/DP/HouseRobberII.java) |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution](./src/Tree/HouseRobberIII.java) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./src/Backtracking/CombinationSumIV.java) |
 
 
 ## Weekly contests
