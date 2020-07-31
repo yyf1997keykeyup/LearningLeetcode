@@ -71,11 +71,22 @@ My personal repository to practice on Leetcode, including weekly contests.
 
 | NUM | TITLE | Solution |
 |---|---|---|
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./src/DO/HouseRobber.java) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./src/DP/HouseRobber.java) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](./src/DP/HouseRobberII.java) |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution](./src/Tree/HouseRobberIII.java) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./src/Backtracking/CombinationSumIV.java) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./src/DP/ClimbingStairs.java) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./src/DP/UniquePaths.java) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./src/DP/UniquePathsII.java) |
+| 100 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](./src/DP/Triangle.java) |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Solution](./src/DP/PerfectSquares.java) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./src/DP/WordBreak.java) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./src/DP/CoinChange.java) |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Solution](./src/DP/BurstBalloons.java) |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [Solution](./src/DP/PaintHouse.java) |
+| 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Solution](./src/DP/PaintHouseII.java) |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./src/DP/LongestIncreasingSubsequence.java) |
 
 
 ## Weekly contests
