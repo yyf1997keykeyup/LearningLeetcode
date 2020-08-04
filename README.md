@@ -87,6 +87,11 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [Solution](./src/DP/PaintHouse.java) |
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Solution](./src/DP/PaintHouseII.java) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./src/DP/LongestIncreasingSubsequence.java) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./src/DP/MaximumSubarray.java) |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./src/DP/PartitionEqualSubsetSum.java) |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](./src/DP/CoinChange2.java) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./src/DP/EditDistance.java) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./src/DP/LongestCommonSubsequence.java) |
 
 
 ## Weekly contests
