@@ -65,6 +65,8 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./src/Backtracking/RestoreIPAddresses.java) |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution](./src/Backtracking/WordBreakII.java) |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Solution](./src/Backtracking/ExpressionAddOperators.java) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./src/Backtracking/WordSearch.java) |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./src/Backtracking/WordSearchII.java) |
 
 
 ## DP
@@ -94,10 +96,82 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./src/DP/LongestCommonSubsequence.java) |
 
 
+## BinarySearch
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./src/BinarySearch/TwoSumII.java) |
+
+
+## BitMap
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution](./src/BitMap/PrisonCellsAfterNDays.java) |
+
+
+## Greedy
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](./src/Greedy/PartitionLabels.java) |
+
+
+## HashMap
+| NUM | TITLE | Solution |
+|---|---|---|
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./src/HashMap/SubarraySumEqualsK.java) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./src/HashMap/TwoSum.java) |
+
+
+## Sliding Window
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./src/SlidingWindow/FindAllAnagramsInAString.java) |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](./src/SlidingWindow/LongestSubstringWithAtMostKDistinctCharacters.java) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./src/SlidingWindow/LongestSubstringWithoutRepeatingCharacters.java) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./src/SlidingWindow/MinimumWindowSubstring.java) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](./src/SlidingWindow/PermutationInString.java) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./src/SlidingWindow/SlidingWindowMaximum.java) |
+
+
+## Stack & Queue
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | [Solution](./src/StackQueue/IPO.java) |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./src/StackQueue/TopKFrequentWords.java) |
+
+
+## String
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./src/String/PalindromicSubstrings.java) |
+
+
+## Math
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./src/Math/ConsecutiveNumbersSum.java) |
+
+
+## Design
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution](./src/Design/HitCounter.java) |
+| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./src/Design/LoggerRateLimiter.java) |
+
+
 ## Weekly contests
 | week | ranking | URL | Solution |
 |---|---|---|---|
 | 190 | 2000 | [weeklyContest190](https://leetcode.com/contest/weekly-contest-190/) | [Solution](./src/WeeklyContest/Contest190.py) |
+| 201 | 5000 | [weeklyContest201](https://leetcode.com/contest/weekly-contest-201/) | [Solution](./src/WeeklyContest/Contest201.java) |
 | 27(BI) | 1400 | [BiWeeklyContest27](https://leetcode.com/contest/biweekly-contest-27) | [Solution](./src/WeeklyContest/BiContest27.py) |
+| 32(BI) | 2000 | [BiWeeklyContest27](https://leetcode.com/contest/biweekly-contest-32) | [Solution](./src/WeeklyContest/BiContest32.py) |
 
 
