@@ -122,6 +122,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 |---|---|---|
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./src/HashMap/SubarraySumEqualsK.java) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./src/HashMap/TwoSum.java) |
+| 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [Solution](./src/HashMap/AnalyzeUserWebsiteVisitPattern.java) |
 
 
 ## Sliding Window
@@ -142,6 +143,15 @@ My personal repository to practice on Leetcode, including weekly contests.
 |---|---|---|
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [Solution](./src/StackQueue/IPO.java) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./src/StackQueue/TopKFrequentWords.java) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./src/StackQueue/MergeKSortedLists.java) |
+
+
+## DFS & BFS
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./src/DFSBFS/NumberOfIslands.java) |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [Solution](./src/DFSBFS/CriticalConnectionsInANetwork.java) |
 
 
 ## String
@@ -149,6 +159,8 @@ My personal repository to practice on Leetcode, including weekly contests.
 | NUM | TITLE | Solution |
 |---|---|---|
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./src/String/PalindromicSubstrings.java) |
+| 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./src/String/ReorderDataInLogFiles.java) |
+| 200 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Solution](./src/String/MostCommonWord.java) |
 
 
 ## Math
@@ -164,6 +176,8 @@ My personal repository to practice on Leetcode, including weekly contests.
 |---|---|---|
 | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Solution](./src/Design/HitCounter.java) |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./src/Design/LoggerRateLimiter.java) |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./src/Design/LRUCache.java) |
+| 588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [Solution](./src/Design/FileSystem.java) |
 
 
 ## Weekly contests
