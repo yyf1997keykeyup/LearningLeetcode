@@ -19,6 +19,9 @@ public class SerializeAndDeserializeBinaryTree {
      *  as "[1,2,3,null,null,4,null]"
      */
     public String serialize(TreeNode root) {
+        if (root == null) {
+            return "";
+        }
         List<Integer> serializedString = new ArrayList<>();
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
@@ -26,7 +29,7 @@ public class SerializeAndDeserializeBinaryTree {
         while (!empty) {
             int levelSize = queue.size();
             empty = true;
-            for (int i=0; i<levelSize; i++) {
+            for (int i = 0; i < levelSize; i++) {
                 TreeNode node = queue.poll();
                 if (node == null) {
                     queue.add(null);
@@ -47,10 +50,13 @@ public class SerializeAndDeserializeBinaryTree {
     }
 
     public TreeNode deserialize(String data) {
+        if (data.equals("")) {
+            return null;
+        }
         String[] nodeValues = data.substring(1, data.length() - 1).split(",");
         TreeNode[] nodeArr = new TreeNode[nodeValues.length];
         nodeArr[0] = new TreeNode(Integer.parseInt(nodeValues[0]));
-        for (int i=1; i<nodeValues.length; i++) {
+        for (int i = 1; i < nodeValues.length; i++) {
             if (!nodeValues[i].trim().equals("null")) {
                 nodeArr[i] = new TreeNode(Integer.parseInt(nodeValues[i].trim()));
                 int parentIdx = getParentIdx(i);
@@ -63,37 +69,43 @@ public class SerializeAndDeserializeBinaryTree {
         }
         return nodeArr[0];
     }
+
     private int getParentIdx(int childIdx) {
         return (childIdx - 1) / 2;
     }
+
     private boolean isLeft(int childIdx) {
         return (childIdx - 1) % 2 == 0;
     }
 
-public String serializeIteration(TreeNode root) {
-    /*
-     * BFS Iteration Version
-     * From: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74264/Short-and-straight-forward-BFS-Java-code-with-a-queue
-     */
-    if (root == null) return "";
-    Queue<TreeNode> q = new LinkedList<>();
-    StringBuilder res = new StringBuilder();
-    q.add(root);
-    while (!q.isEmpty()) {
-        TreeNode node = q.poll();
-        if (node == null) {
-            res.append("null,");
-            continue;
+    public String serializeIteration(TreeNode root) {
+        /*
+         * BFS Iteration Version
+         * From: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74264/Short-and-straight-forward-BFS-Java-code-with-a-queue
+         */
+        if (root == null) {
+            return "";
         }
-        res.append(node.val + ",");
-        q.add(node.left);
-        q.add(node.right);
+        Queue<TreeNode> q = new LinkedList<>();
+        StringBuilder res = new StringBuilder();
+        q.add(root);
+        while (!q.isEmpty()) {
+            TreeNode node = q.poll();
+            if (node == null) {
+                res.append("null,");
+            } else {
+                res.append(node.val + ",");
+                q.add(node.left);
+                q.add(node.right);
+            }
+        }
+        return res.toString();
     }
-    return res.toString();
-}
 
     public TreeNode deserializeIteration(String data) {
-        if (data.equals("")) return null;
+        if (data.equals("")) {
+            return null;
+        }
         Queue<TreeNode> q = new LinkedList<>();
         String[] values = data.split(",");
         TreeNode root = new TreeNode(Integer.parseInt(values[0]));

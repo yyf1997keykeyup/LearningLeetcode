@@ -43,6 +43,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./src/Tree/PopulatingNextRightPointersInEachNodeII.java) |
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Solution](./src/Tree/BinaryTreeVerticalOrderTraversal.java) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./src/Tree/SubtreeOfAnotherTree.java) |
 
 
 ## Backtracking
@@ -94,6 +95,16 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](./src/DP/CoinChange2.java) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./src/DP/EditDistance.java) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./src/DP/LongestCommonSubsequence.java) |
+| 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Solution](./src/DP/MinimumNumberOfDaysToEatNOranges.java) |
+
+
+## Sort
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./src/Sort/KthLargestElementInAnArray.java) |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./src/Sort/KClosestPointsToOrigin.java) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./src/Sort/MergeIntervals.java) |
 
 
 ## BinarySearch
@@ -101,6 +112,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | NUM | TITLE | Solution |
 |---|---|---|
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./src/BinarySearch/TwoSumII.java) |
+| 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Solution](./src/BinarySearch/MagneticForceBetweenTwoBalls.java) |
 
 
 ## BitMap
@@ -123,6 +135,8 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./src/HashMap/SubarraySumEqualsK.java) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./src/HashMap/TwoSum.java) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [Solution](./src/HashMap/AnalyzeUserWebsiteVisitPattern.java) |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./src/HashMap/CopyListWithRandomPointer.java) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./src/HashMap/ThreeSum.java) |
 
 
 ## Sliding Window
@@ -144,6 +158,11 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [Solution](./src/StackQueue/IPO.java) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./src/StackQueue/TopKFrequentWords.java) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./src/StackQueue/MergeKSortedLists.java) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./src/StackQueue/TrappingRainWater.java) |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](./src/StackQueue/MeetingRoomsII.java) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./src/StackQueue/NextGreaterElementI.java) |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./src/StackQueue/NextGreaterElementII.java) |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Solution](./src/StackQueue/MinimumCostTreeFromLeafValues.java) |
 
 
 ## DFS & BFS
@@ -161,6 +180,31 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./src/String/PalindromicSubstrings.java) |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./src/String/ReorderDataInLogFiles.java) |
 | 200 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Solution](./src/String/MostCommonWord.java) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./src/String/LongestPalindromicSubstring.java) |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Solution](./src/String/BreakAPalindrome.java) |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./src/String/IntegerToEnglishWords.java) |
+
+
+## LinkedList
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./src/LinkedList/AddTwoNumbers.java) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./src/LinkedList/MergeTwoSortedLists.java) |
+
+
+## Matrix
+
+| NUM | TITLE | Solution |
+|---|---|---|
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./src/Matrix/SpiralMatrixII.java) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./src/Matrix/SearchA2DMatrixII.java) |
+
+
+## Graph
+| NUM | TITLE | Solution |
+|---|---|---|
+| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](./src/Graph/AlienDictionary.java) |
 
 
 ## Math
@@ -178,6 +222,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./src/Design/LoggerRateLimiter.java) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./src/Design/LRUCache.java) |
 | 588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [Solution](./src/Design/FileSystem.java) |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./src/Design/InsertDeleteGetRandomO1.java) |
 
 
 ## Weekly contests
