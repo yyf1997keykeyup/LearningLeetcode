@@ -98,6 +98,12 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Solution](./src/DP/MinimumNumberOfDaysToEatNOranges.java) |
 
 
+## Array
+| NUM | TITLE | Solution |
+|---|---|---|
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./src/Array/ProductOfArrayExceptSelf.java) |
+
+
 ## Sort
 
 | NUM | TITLE | Solution |
@@ -137,6 +143,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [Solution](./src/HashMap/AnalyzeUserWebsiteVisitPattern.java) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./src/HashMap/CopyListWithRandomPointer.java) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./src/HashMap/ThreeSum.java) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./src/HashMap/GroupAnagrams.java) |
 
 
 ## Sliding Window
@@ -183,6 +190,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./src/String/LongestPalindromicSubstring.java) |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Solution](./src/String/BreakAPalindrome.java) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./src/String/IntegerToEnglishWords.java) |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./src/String/BasicCalculatorII.java) |
 
 
 ## LinkedList
@@ -223,9 +231,12 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./src/Design/LRUCache.java) |
 | 588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [Solution](./src/Design/FileSystem.java) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./src/Design/InsertDeleteGetRandomO1.java) |
+| 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./src/Design/TicTacToe.java) |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](./src/Design/LFUCache.java) |
 
 
 ## Weekly contests
+
 | week | ranking | URL | Solution |
 |---|---|---|---|
 | 190 | 2000 | [weeklyContest190](https://leetcode.com/contest/weekly-contest-190/) | [Solution](./src/WeeklyContest/Contest190.py) |
