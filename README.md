@@ -44,6 +44,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Solution](./src/Tree/BinaryTreeVerticalOrderTraversal.java) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./src/Tree/UniqueBinarySearchTrees.java) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./src/Tree/SubtreeOfAnotherTree.java) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./src/Tree/FlattenBinaryTreeToLinkedList.java) |
 
 
 ## Backtracking
@@ -96,12 +97,15 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./src/DP/EditDistance.java) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./src/DP/LongestCommonSubsequence.java) |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Solution](./src/DP/MinimumNumberOfDaysToEatNOranges.java) |
+| 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Solution](./src/DP/FrogJump.java) |
 
 
 ## Array
 | NUM | TITLE | Solution |
 |---|---|---|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./src/Array/ProductOfArrayExceptSelf.java) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./src/Array/MoveZeroes.java) |
+| 777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [Solution](./src/Array/SwapAdjacentInLRString.java) |
 
 
 ## Sort
@@ -133,6 +137,8 @@ My personal repository to practice on Leetcode, including weekly contests.
 | NUM | TITLE | Solution |
 |---|---|---|
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](./src/Greedy/PartitionLabels.java) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./src/Greedy/JumpGame.java) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./src/Greedy/JumpGameII.java) |
 
 
 ## HashMap
@@ -170,6 +176,9 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./src/StackQueue/NextGreaterElementI.java) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./src/StackQueue/NextGreaterElementII.java) |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Solution](./src/StackQueue/MinimumCostTreeFromLeafValues.java) |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](./src/StackQueue/BasicCalculator.java) |
+| 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Solution](./src/StackQueue/BasicCalculatorIII.java) |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Solution](./src/StackQueue/FindTheMostCompetitiveSubsequence.java) |
 
 
 ## DFS & BFS
@@ -191,6 +200,7 @@ My personal repository to practice on Leetcode, including weekly contests.
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Solution](./src/String/BreakAPalindrome.java) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./src/String/IntegerToEnglishWords.java) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./src/String/BasicCalculatorII.java) |
+| 1529 | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) | [Solution](./src/String/BulbSwitcherIV.java) |
 
 
 ## LinkedList

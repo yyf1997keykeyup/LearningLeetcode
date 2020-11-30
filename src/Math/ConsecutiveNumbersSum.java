@@ -22,4 +22,15 @@ public class ConsecutiveNumbersSum {
         }
         return res;
     }
+
+    public int consecutiveNumbersSumBetter(int N) {
+        int count = 0;
+        int iMax = (int) (Math.sqrt(2 * N + 1 / 4) - 1 / 2);
+        for (int i = 1; i <= iMax; i++) {
+            if ((N - i * (i + 1) / 2) % i == 0) {
+                count++;
+            }
+        }
+        return count;
+    }
 }
